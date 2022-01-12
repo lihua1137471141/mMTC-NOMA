@@ -1,6 +1,6 @@
 # Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach
 
-**Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum**
+**Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum**
 
 ## Abstract
 In this paper, we aim to improve the connectivity, scalability, and energy efficiency of machine-type communication
