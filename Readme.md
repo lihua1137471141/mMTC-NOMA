@@ -19,17 +19,10 @@ Through numerical results, we show that the proposed schemes provide a considera
 conventional mMTC networks.
 
 ## Paper
-- [Preprint on arXiv](https://arxiv.org/abs/2104.01912)
-- [IEEExplore](https://ieeexplore.ieee.org/document/9558795)
-
+- updating
 ## Bibtex
 If you find that our research is interesting and our code is helpful, please cite our paper. Thank you!
 
 ```
-@article{DoTCOM2021,
-	author = {Nguyen, Thanh Luan and Do, Tri Nhu and Kaddoum, Georges.},
-	title = {Performance {A}nalysis of {M}ulti-user {NOMA} {W}ireless-{P}owered m{MTC} {N}etworks: {A} {S}tochastic {G}eometry {A}pproach},
-	journal = {IEEE Transactions on Communications},
-	year = {2022},
-}
+updating
 ```
