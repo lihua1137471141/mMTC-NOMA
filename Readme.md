@@ -19,7 +19,7 @@ Through numerical results, we show that the proposed schemes provide a considera
 conventional mMTC networks.
 
 ## Paper
-- updating
+- [arXiv](https://arxiv.org/abs/2201.04784)
 ## Bibtex
 If you find that our research is interesting and our code is helpful, please cite our paper. Thank you!
 
